@@ -1,3 +1,5 @@
-# quine2vec
+# Paper data and code
 
-Project page for the paper "Evaluating the consistency of word embeddings from small data".
+This is the project page for the paper "Evaluating the consistency of word embeddings from small data". You can find the datasets used in the paper here:
+
+bloemj/Quine-all-rnd
