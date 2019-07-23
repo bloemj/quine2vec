@@ -25,3 +25,5 @@ Sentences randomly sampled from System of Logistic:
 Sentences randomly sampled from a Wikipedia snapshot:
 
 [Wiki-rnd](https://github.com/bloemj/Wiki-rnd)
+
+(to be added): Quine-freqwords
