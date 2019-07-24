@@ -26,4 +26,10 @@ Sentences randomly sampled from a Wikipedia snapshot:
 
 [Wiki-rnd](https://github.com/bloemj/Wiki-rnd)
 
-(to be added): Quine-freqwords
+The next two datasets were only used for the domain comparison experiment summarized in Table 5 of the paper.
+
+Sentences from book halves of Word and Object, with a different set of frequency-balanced words as target terms:
+[Quine-WordObject-freqdata](https://github.com/bloemj/Quine-WordObject-freqdata)
+
+Sentences from book halves of System of Logistic, with a different set of frequency-balanced words as target terms:
+[Quine-Logistic-freqdata](https://github.com/bloemj/Quine-Logistic-freqdata)
