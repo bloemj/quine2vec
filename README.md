@@ -1,6 +1,8 @@
 # Paper data and code
 
-This is the project page for the paper "Evaluating the consistency of word embeddings from small data". You can find the datasets used in the paper here:
+This is the project page for the paper "Evaluating the consistency of word embeddings from small data". You can find the datasets used in the paper here.
+
+UPDATE: Unfortunately, it does not appear that it's possible for us to release most of these datasets for copyright reasons, as the books from the Quine corpus are copyrighted, so the Quine-based sets have been made private. If you do own Word and Object and/or System of Logistic, contact us for the derived data sets. For other cases, corpus reproduction instructions will follow shortly.
 
 Sentences randomly sampled from full corpus:
 
